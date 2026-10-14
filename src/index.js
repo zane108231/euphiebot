@@ -1,4 +1,3 @@
-```js
 require("dotenv").config();
 
 const {
@@ -220,4 +219,3 @@ if (!token) {
 }
 
 client.login(token);
-```
