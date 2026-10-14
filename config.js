@@ -3,23 +3,23 @@ require("dotenv").config();
 module.exports = {
     nodes: [
         {
-            host: "lavalinkv4.serenetia.com",
-            password: "https://seretia.link/discord",
-            port: 80,
+            host: "160.191.77.60",
+            password: "zealooser",
+            port: 6393,
             secure: false,
             name: "Main",
         },
         {
-            host: "193.226.78.187",
-            password: "looserzea",
-            port: 5152,
+            host: "160.191.77.60",
+            password: "zealooser",
+            port: 6393,
             secure: false,
             name: "Mai2",
         },
         {
-            host: "193.226.78.187",
-            password: "looserzea",
-            port: 5152,
+            host: "160.191.77.60",
+            password: "zealooser",
+            port: 6393,
             secure: false,
             name: "Mai3",
         },
